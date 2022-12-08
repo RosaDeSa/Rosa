@@ -1,4 +1,4 @@
-# Rosa
+# RosaDeSa
 
 ### Hello! 👋
  I'm a bioinformatician working on integrative genomics:
