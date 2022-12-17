@@ -1,7 +1,7 @@
 # RosaDeSa
 
-### Hello! 👋
- I'm a bioinformatician working on integrative genomics 🧬
+########################################  Hi tehre! I'm Rosa👋
+ I'm a PhD student in bioinformatics working on integrative genomics 🧬
 
 
 - 🔭 I’m currently working on a pipeline to detect germline mutations
