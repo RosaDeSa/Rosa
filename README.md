@@ -4,7 +4,7 @@
                                        I'm a PhD student in bioinformatics 🧬 
 
 
-- 🔭 I’m currently working on a pipeline to detect germline mutations
+- 🔭 I’m currently working on nextflow pipeline to detect germline/somatic mutations
 - 🌱 I’m currently learning Nextflow, Docker, BASH
 - 👯 I’m looking to collaborate on Bioinformatics pipeline
 -  💬 Ask me about R, Nextflow, Docker, Google Cloud
