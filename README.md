@@ -5,7 +5,7 @@
                                        I'm a PhD student in bioinformatics 🧬 
 
 
-- 🔭 I devekoped nextflow pipeline to detect germline/somatic mutations in target panel genes
+- 🔭 I developed Nextflow pipeline to detect germline/somatic mutations in target panel genes
 - 🌱 I work using Nextflow, Docker, BASH
 - 👯 I’m looking to collaborate on Bioinformatics project
 -  💬 Ask me about R, Nextflow, Docker, Google Cloud
